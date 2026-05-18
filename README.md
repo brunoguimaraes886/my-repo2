@@ -26,7 +26,7 @@ Módulo utilitário em TypeScript com funções de manipulação de arrays e obj
 | PORT | Porta que o servidor vai rodar |
 
 ## Estrutura de pastas
-
+```
 my-repo2/
 ├── src/
 │   ├── index.ts       # arquivo principal
@@ -38,3 +38,4 @@ my-repo2/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+```
